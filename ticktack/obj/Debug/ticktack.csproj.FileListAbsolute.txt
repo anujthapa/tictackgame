@@ -1,0 +1,9 @@
+C:\Users\anujt\source\repos\ticktack\bin\Debug\ticktack.exe.config
+C:\Users\anujt\source\repos\ticktack\bin\Debug\ticktack.exe
+C:\Users\anujt\source\repos\ticktack\bin\Debug\ticktack.pdb
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.formticktactoe.resources
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.Properties.Resources.resources
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.csproj.GenerateResource.Cache
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.csproj.CoreCompileInputs.cache
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.exe
+C:\Users\anujt\source\repos\ticktack\obj\Debug\ticktack.pdb
